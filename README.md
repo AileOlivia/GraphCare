@@ -1,7 +1,7 @@
-# GraphCare: Dual-Graph Learning Driven by LLM-Aligned Multilingual Insights for Sepsis Prediction
+# GraphCare: A Dual-Graph Sepsis Prediction Framework with LLM‑Based Semantic Standardization and Time‑Adaptive Modeling
 [![paper](https://img.shields.io/badge/PDF-Available-red?logo=adobeacrobatreader&logoColor=white)](YOUR_PDF_LINK_HERE)
 
-This is the official implementation of our paper **"GraphCare: Dual-Graph Learning Driven by LLM-Aligned Multilingual Insights for Sepsis Prediction"** (Accepted for publication). GraphCare is an innovative LLM-guided dual-graph learning framework that fundamentally advances sepsis mortality prediction for elderly patients through three key innovations: multi-lingual semantic embedding for cross-center antibiotic standardization, dual-graph architecture separating static and dynamic physiological relationships, and adaptive temporal modeling for irregular clinical data.
+This is the official implementation of our paper **"GraphCare: A Dual-Graph Sepsis Prediction Framework with LLM‑Based Semantic Standardization and Time‑Adaptive Modeling"** (Accepted for publication). GraphCare is an innovative LLM-guided dual-graph learning framework that fundamentally advances sepsis mortality prediction for elderly patients through three key innovations: multi-lingual semantic embedding for cross-center antibiotic standardization, dual-graph architecture separating static and dynamic physiological relationships, and adaptive temporal modeling for irregular clinical data.
 
 Extensive validation across MIMIC-IV, Stanford ICU, and Zigong datasets demonstrates superior performance, with AUROC up to **0.8842** and F1-score up to **0.8853** across six mortality prediction tasks. GraphCare's robust cross-dataset generalization and comprehensive temporal analysis establish a new paradigm for personalized predictive medicine in critical care.
 
@@ -64,7 +64,7 @@ GraphCare/
 If you find this work useful, please cite our paper:
 ```bibtex
 @article{cao2025graphcare,
-  title={GraphCare: Dual-Graph Learning Driven by LLM-Aligned Multilingual Insights for Sepsis Prediction},
+  title={GraphCare: A Dual-Graph Sepsis Prediction Framework with LLM‑Based Semantic Standardization and Time‑Adaptive Modeling},
   author={Cao, Lei and Wang, Hanyu and Wu, Di and Liu, Xiaoli and Wan, Tao and Qin, Zengchang},
   journal={Computer Methods and Programs in Biomedicine},
   year={2025},
